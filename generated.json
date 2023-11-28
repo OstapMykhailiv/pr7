@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Лялька",
+        "image": "https://www.ttt.ua/uploads/images/New_Folder5/ff56dc8be8d360b52174e12535ea4a2b-main.jpg",
+        "price": 599,
+        "note": "Новинка!",
+        "sale": null,
+        "is_valid": true
+    },
+    {
+        "name": "Великий плюшевий ведмідь",
+        "image": "https://content.rozetka.com.ua/goods/images/big/254247348.jpg",
+        "price": 999,
+        "note": "Хіт продажів!",
+        "sale": 0.1,
+        "is_valid": true
+    },
+    {
+        "name": "Дитячі іграшки для купання",
+        "image": "https://content2.rozetka.com.ua/goods/images/big/102644624.jpg",
+        "price": 799,
+        "note": "Новинка!",
+        "sale": null,
+        "is_valid": false
+    },
+    {
+        "name": "Набір Lego Star Wars AT-ST 75332",
+        "image": "https://retromagaz.com/uploads/products/42/89/site_f3a3kgkn9_ba2255a9.png",
+        "price": 1299,
+        "note": null,
+        "sale": 0.15,
+        "is_valid": true
+    }
+]
