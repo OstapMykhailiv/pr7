@@ -1,6 +1,7 @@
 [
     {
-        "name": "Лялька",
+        "title": "Лялька",
+        "name": "Реалістична лялька, дівчинка",
         "image": "https://ostapmykhailiv.github.io/pr7/images/1.jpg",
         "price": 599,
         "note": "Новинка!",
@@ -8,7 +9,8 @@
         "is_valid": true
     },
     {
-        "name": "Великий плюшевий ведмідь",
+        "title": "Плюшевий ведмідь",
+        "name": "Великий плющевий ведмідь",
         "image": "https://ostapmykhailiv.github.io/pr7/images/2.jpg",
         "price": 999,
         "note": "Хіт продажів!",
@@ -16,7 +18,8 @@
         "is_valid": true
     },
     {
-        "name": "Дитячі іграшки для купання",
+        "title": "Іграшки для купання",
+        "name": "Іграшки для купання (Риби)",
         "image": "https://ostapmykhailiv.github.io/pr7/images/3.jpg",
         "price": 799,
         "note": "Новинка!",
@@ -24,6 +27,7 @@
         "is_valid": false
     },
     {
+        "title": "Набір Lego",
         "name": "Набір Lego Star Wars AT-ST 75332",
         "image": "https://ostapmykhailiv.github.io/pr7/images/4.jpg",
         "price": 1299,
