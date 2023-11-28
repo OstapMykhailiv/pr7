@@ -1,7 +1,7 @@
 [
     {
         "name": "Лялька",
-        "image": "https://www.ttt.ua/uploads/images/New_Folder5/ff56dc8be8d360b52174e12535ea4a2b-main.jpg",
+        "image": "https://ostapmykhailiv.github.io/pr7/images/1.jpg",
         "price": 599,
         "note": "Новинка!",
         "sale": null,
@@ -9,7 +9,7 @@
     },
     {
         "name": "Великий плюшевий ведмідь",
-        "image": "https://content.rozetka.com.ua/goods/images/big/254247348.jpg",
+        "image": "https://ostapmykhailiv.github.io/pr7/images/2.jpg",
         "price": 999,
         "note": "Хіт продажів!",
         "sale": 0.1,
@@ -17,7 +17,7 @@
     },
     {
         "name": "Дитячі іграшки для купання",
-        "image": "https://content2.rozetka.com.ua/goods/images/big/102644624.jpg",
+        "image": "https://ostapmykhailiv.github.io/pr7/images/3.jpg",
         "price": 799,
         "note": "Новинка!",
         "sale": null,
@@ -25,7 +25,7 @@
     },
     {
         "name": "Набір Lego Star Wars AT-ST 75332",
-        "image": "https://retromagaz.com/uploads/products/42/89/site_f3a3kgkn9_ba2255a9.png",
+        "image": "https://ostapmykhailiv.github.io/pr7/images/4.jpg",
         "price": 1299,
         "note": null,
         "sale": 0.15,
