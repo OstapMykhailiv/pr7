@@ -1,0 +1,103 @@
+section{
+    display: flex;
+    margin: 50px;
+}
+.swiper-button-prev{
+    left: 0;
+    border-radius: 0 35px 35px 0;
+    border-left: 1px solid white;
+}
+.swiper-button-next{
+    right: 0;
+    border-radius: 35px 0 0 35px;
+    border-right: 1px solid white;
+}
+.swiper{
+    top: 50px;
+    width: 80vw;
+}
+
+/*section styles*/
+section article{
+    width: 220px;
+    border: 2px solid #dadada;
+    margin: 1px;
+    position: relative;
+}
+section div img{
+    width: 150px;
+    height: 150px;
+}
+
+section div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: hidden;
+    max-height: 285px;
+}
+
+section .title-div{
+    border-bottom: 1px solid #dadada;
+}
+
+.note {
+    position: absolute;
+    top: -14%;
+    left: 70%;
+    display: flex;
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    background: yellow;
+    justify-content: center;
+    text-align: center;
+    font-size: 12px;
+}
+
+section .item-div button{
+    margin: 10px;
+    height: 25px
+}
+
+section div .button-NA{
+    background: purple;
+    color: white;
+    border: none;
+    width: 170px;
+}
+
+section div .button-A{
+    width: 140px;
+    background: #9ec0ff;
+    color: black;
+    border: none;
+}
+section div .button-A:hover {
+    background: #f6e88b;
+    border: 1px solid black;
+    cursor: pointer;
+}
+section div p{
+    margin: 2px;
+    font-size: 15px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    height: 40px;
+    max-width: 180px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.text {
+    max-width: 180px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+section .price-div{
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+}
